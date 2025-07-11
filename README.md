@@ -16,3 +16,8 @@ Read the [Wiki](https://github.com/2dust/v2rayN/wiki) for details.
 ## Telegram Channel
 
 [github_2dust](https://t.me/github_2dust)
+
+## TODO
+
+- Fix tun mode for fedora silverblue(redhat ex file or flatpak or ...)
+  
